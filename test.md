@@ -16,9 +16,9 @@
 
 ![这是一个图片]（https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=702257389,1274025419&fm=27&gp=0.jpg "区块链")
 
-######[超链接名](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=702257389,1274025419&fm=27&gp=0.jpg "超链接地址")
-######[百度](http://www.baidu.com) 
-######[简书](http://jianshu.com)
+###### [超链接名](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=702257389,1274025419&fm=27&gp=0.jpg "超链接地址")
+###### [百度](http://www.baidu.com) 
+###### [简书](http://jianshu.com)
 
 <a href="https://www.jianshu.com/u/1f5ac0cf6a8b" target="_blank">简书</a>
 
@@ -49,7 +49,7 @@
 `单行代码A a=new A()` <br>
 `单行代码B b=new B()`
 
-```
+``` java
 @ServletComponentScan
 public class AppApplication {
 
@@ -68,5 +68,5 @@ e=>end
 st->op->cond
 cond(yes)->e
 cond(no)->op
-&```
+```
 

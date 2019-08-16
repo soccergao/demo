@@ -70,3 +70,10 @@ cond(yes)->e
 cond(no)->op
 ```
 
+
+```sequence
+    Alice->John: Hello John, how are you?
+    loop every minute
+        John-->Alice: Great!
+    end
+```
